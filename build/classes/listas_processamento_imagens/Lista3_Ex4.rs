@@ -1,0 +1,2 @@
+listas_processamento_imagens.Lista3_Ex4
+listas_processamento_imagens.MyCoord
